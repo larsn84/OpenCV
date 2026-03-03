@@ -14,7 +14,7 @@ pip install opencv-contrib-python numpy matplotlib
 ```text
 OpenCV-Course-Python/
 ├── README.md               # Project documentation
-├── requirements.txt        # Dependencies
+├── OpenCV_Basics.md        # Dependencies
 ├── .gitignore              # Files to ignore (e.g., venv, __pycache__, large data)
 ├── data/                   # Raw assets
 │   ├── photos/             # Image datasets
